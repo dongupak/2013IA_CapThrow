@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "1.0">
+   <FileBreakpoints>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "jjins/TouchHandlingLayer.m"
+         timestampString = "391867064.957736"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "2"
+         endingLineNumber = "2">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "jjins/TouchHandlingLayer.m"
+         timestampString = "392884826.184345"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "14"
+         endingLineNumber = "14"
+         landmarkName = "-init"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "jjins/main.m"
+         timestampString = "392894972.366701"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "14"
+         endingLineNumber = "14"
+         landmarkName = "main()"
+         landmarkType = "7">
+      </FileBreakpoint>
+   </FileBreakpoints>
+</Bucket>
